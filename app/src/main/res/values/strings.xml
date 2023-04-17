@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cheat Chat</string>
+    <string name="password">    password</string>
+    <string name="username">    username</string>
+    <string name="email">   email</string>
+    <string name="sign_out">sign out</string>
+    <string name="new_message">new message</string>
+    <string name="user_name">User Name</string>
+    <string name="send_message">send message...</string>
+    <string name="what_are_you_doing_please_answer_as_quick_as_possible_it_is_a_emergency">what are you doing please answer as quick as possible; it is a emergency.</string>
+    <string name="user_name2">user name</string>
+</resources>

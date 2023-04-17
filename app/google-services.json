@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080783056854",
+    "project_id": "messanger-8c0c5",
+    "storage_bucket": "messanger-8c0c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080783056854:android:fa9cb18c5b0bbb30627e77",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080783056854-6nu8ttfa6lav3dinchcmnj0ce6sgf0i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQJIHEvuxVlGBAchiSaEaRJthge3EVns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080783056854-6nu8ttfa6lav3dinchcmnj0ce6sgf0i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
